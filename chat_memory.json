@@ -1,0 +1,66 @@
+[
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "hii"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "Hey there, food adventurer! Ready to cook up some deliciousness?\n\nBefore we dive in, tell me a bit about what you love:\n\n*   **Cuisines:** What flavors make your taste buds sing? (e.g., Italian, Mexican, Thai, Indian)\n*   **Spice Level:** How hot do you like it? (Mild, Medium, Spicy, Fire!)\n*   **Allergies:** Anything I need to avoid?\n*   **Dislikes:** Any foods that are a hard no?"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "Tell me how to cook something without opening stove"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "Whoa, no stove? No problem! We've got options!\n\n*   **Microwave Meals:** Quick and easy.\n*   **No-Cook Wonders:** Salads, wraps, and more.\n*   **Air Fryer Magic:** Crispy goodness without the heat.\n\nWhat kind of dish are you craving?"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "Something spicy"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "Spicy, got it!\n\n*   **Microwave:** Spicy Nachos or a Quick Curry Bowl.\n*   **No-Cook:** Spicy Tuna Salad Lettuce Wraps or a Fiery Bean Salad.\n*   **Air Fryer:** Spicy Buffalo Cauliflower Bites or Crispy Chili Garlic Tofu.\n\nWhich direction are we going?"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "hi"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "parts": [
+            {
+                "text": "Hey, chef! Ready for some culinary magic? \u2728\n\nBefore we whip up something amazing, let's get a taste of your style:\n\n*   **Favorite Cuisines?** (e.g., Italian, Mexican, Thai)\n*   **Spice Level?** (Mild, Medium, Spicy, Fire!)\n*   **Any Allergies?**\n*   **Foods You Dislike?**"
+            }
+        ]
+    }
+]
